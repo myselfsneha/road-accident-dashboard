@@ -1,42 +1,85 @@
-# 🚧 Road Accident Dashboard – Excel Project
+# 🚦 Road Accident Dashboard (Excel Project)
 
-**Tools Used:** Microsoft Excel  
-**Goal:** Analyze and visualize road accident data to uncover patterns, fatalities, and trends.
-
----
-
-## 📊 Dashboard Highlights
-
-- 📆 Monthly and Year-wise accident trends
-- 📍 City-wise & State-wise breakdown
-- ⚠️ Fatal vs Non-Fatal classifications
-- 📈 Clean charts and slicers for filtering
+**Tools Used:** Microsoft Excel, Charts, Conditional Formatting  
+**Project Type:** Dashboard | Data Analysis | Visualization
 
 ---
 
-## 🎯 Key Insights
+## 📊 Objective
 
-- Most accidents occur in peak traffic months (e.g. June–August)
-- Cities with higher populations saw more severe accidents
-- Fatal accidents show a slight increase year-over-year
-
----
-
-## 📎 Files
-
-- Excel Dashboard: `dashboard_excel_file.xlsx`
-- PDF Export: `road_accident_dashboard_sneha.pdf`
+To analyze road accident data and visualize insights using Excel.  
+The dashboard helps understand trends in fatalities, monthly patterns, and regional distribution of accidents in India.
 
 ---
 
-## 🖼️ Preview
+## 📁 Datasets Used
 
-![Dashboard Preview](visuals/dashboard_cover.png)
+- `only_road_accidents_data3.csv`
+- `only_road_accidents_data_month2.csv`
 
 ---
 
-## 🚀 How to Use
+## 💡 Key Features
 
-1. Download the Excel file
-2. Use slicers (Date, Severity, City) to interact
-3. Check trends, patterns & filter based on need
+- Cleaned and structured real accident data  
+- Added calculated columns: Month-Year, Year, Severity level  
+- Visualized using bar charts, line graphs, and heatmaps  
+- Used slicers for **dynamic filtering** by city and time  
+- Highlighted **fatal vs non-fatal** trends clearly
+
+---
+
+## 🛠️ Steps Followed
+
+1. **Data Cleaning**  
+   - Removed blanks, unified date format, added calculated columns
+
+2. **Data Processing in Excel**  
+   - Added Month-Year, Year, Severity formulas
+
+3. **Dashboard Design**  
+   - Used Snap to Grid, grouped charts, and created visuals
+
+4. **Filters & Slicers**  
+   - Enabled dropdown selectors by city & month
+
+5. **Export & Upload**  
+   - PDF version and screenshots uploaded to GitHub
+
+---
+
+## 📸 Project Preview
+
+![Dashboard Preview](path-to-your-screenshot-image)
+
+---
+
+## 🔗 Live Repository
+
+[🔗 GitHub Project Link](https://github.com/myselfsneha/road-accident-dashboard)
+
+---
+
+## 🧠 Insights Discovered
+
+- Accidents peak in monsoon & year-end  
+- Fatalities are higher in certain regions  
+- Month-wise filtering gives deep pattern insight
+
+---
+
+## 📚 Skills Gained
+
+- Excel Dashboarding  
+- Data Cleaning & Transformation  
+- Visual Storytelling  
+- Analytical Thinking
+
+---
+
+## 🙌 Contribution
+
+Feel free to ⭐ star the repo and share feedback.  
+You can fork or reuse this project as a beginner template.
+
+---
